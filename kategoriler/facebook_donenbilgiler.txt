@@ -1,0 +1,21 @@
+fb_profile
+
+{u'education': [{u'school': {u'id': u'110868028941845',
+                             u'name': u'Buca Endustri Meslek Lisesi'},
+                 u'type': u'High School'}],
+ u'email': u'musluyuksektepe@hotmail.com',
+ u'first_name': u'Ceylan',
+ u'gender': u'male',
+ u'hometown': {u'id': u'107968765903327', u'name': u'\u0130zmir, Turkey'},
+ u'id': u'100002835521456',
+ u'last_name': u'Muslu',
+ u'link': u'https://www.facebook.com/musluyuksektepe1',
+ u'locale': u'tr_TR',
+ u'location': {u'id': u'107968765903327', u'name': u'\u0130zmir, Turkey'},
+ u'middle_name': u'Emir',
+ u'name': u'Ceylan Emir Muslu',
+ u'quotes': u'Kan sudan a\u011f\u0131rd\u0131r.',
+ u'timezone': 2,
+ u'updated_time': u'2014-02-24T10:34:51+0000',
+ u'username': u'musluyuksektepe1',
+ u'verified': True}
