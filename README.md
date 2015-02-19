@@ -1,1 +1,1 @@
-Bunlar güzelşeyler mayk
+Bunlar güzel şeyler mayk
